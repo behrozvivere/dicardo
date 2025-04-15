@@ -20,7 +20,7 @@ const config = {
     },
     extend: {
       fontFamily: {
-        vazir: ["var(--font-vazir)"],
+        sans: ["IRANSansX", "sans-serif"], // Set IRANSansX as the default sans font
         inter: ["var(--font-inter)"],
       },
       colors: {
